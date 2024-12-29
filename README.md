@@ -1,6 +1,6 @@
 # 🌌 GenesisOS
 
-**GenesisOS** is a modern, open-source operating system designed to redefine simplicity, speed, and security for users worldwide. Built from the ground up, GenesisOS offers a seamless experience that bridges innovation and user-centric design.
+**GenesisOS** is a modern operating system designed to redefine simplicity, speed, and security for users worldwide. Built from the ground up, GenesisOS offers a seamless experience that bridges innovation and user-centric design.
 
 ---
 
