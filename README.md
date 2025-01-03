@@ -33,7 +33,7 @@ Follow these steps to install GenesisOS on your device:
 2. **Create a Bootable USB**:
    - Use tools like Rufus to create a bootable USB drive with the downloaded ISO.
 3. **Boot from USB**:
-   - Restart your computer and boot from the USB drive.
+   - Restart your computer and boot from the USB drive by going into the bootdrive menu from your bios.
 4. **Install GenesisOS**:
    - Follow the on-screen instructions to install GenesisOS on your system.
 
